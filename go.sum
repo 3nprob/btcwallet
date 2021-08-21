@@ -1,4 +1,8 @@
 cloud.google.com/go v0.26.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
+github.com/3nprob/btcd v0.22.0-beta.0.20210803133449-f5a1fb9965e4 h1:HXmJpFGcEfkqE49XVwWeHvNOq4yNW+tJ4ja9gahu28I=
+github.com/3nprob/btcd v0.22.0-beta.0.20210803133449-f5a1fb9965e4/go.mod h1:9n5ntfhhHQBIhUvlhDvD3Qg6fRUj4jkN0VB8L8svzOA=
+github.com/3nprob/btcd v0.22.0-beta.0.20210821075158-4f2d3fa1e593 h1:NE/kaLLRcov5S3CP/HftfHdqUjzyr2g6X3EvvqaH/BM=
+github.com/3nprob/btcd v0.22.0-beta.0.20210821075158-4f2d3fa1e593/go.mod h1:9n5ntfhhHQBIhUvlhDvD3Qg6fRUj4jkN0VB8L8svzOA=
 github.com/aead/siphash v1.0.1 h1:FwHfE/T45KPKYuuSAKyyvE+oPWcaQ+CUmFW0bPlM+kg=
 github.com/aead/siphash v1.0.1/go.mod h1:Nywa3cDsYNNK3gaciGTWPwHt0wlpNV15vwmswBAUSII=
 github.com/btcsuite/btcd v0.0.0-20190824003749-130ea5bddde3/go.mod h1:3J08xEfcugPacsc34/LKRU2yO7YmuT8yt28J8k2+rrI=
