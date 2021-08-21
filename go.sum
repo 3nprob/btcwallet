@@ -5,6 +5,8 @@ github.com/3nprob/btcd v0.21.0-beta.0.20210821093507-bc8debc62bfb h1:DTKhGakWZr/
 github.com/3nprob/btcd v0.21.0-beta.0.20210821093507-bc8debc62bfb/go.mod h1:9n5ntfhhHQBIhUvlhDvD3Qg6fRUj4jkN0VB8L8svzOA=
 github.com/3nprob/btcd v0.21.0-beta.0.20210821110625-4960d194d9fc h1:FXxpBdzBiLUdJIYzV3J/T7CaxscdMqNcPPmaYMM8p1o=
 github.com/3nprob/btcd v0.21.0-beta.0.20210821110625-4960d194d9fc/go.mod h1:9n5ntfhhHQBIhUvlhDvD3Qg6fRUj4jkN0VB8L8svzOA=
+github.com/3nprob/btcd v0.21.0-beta.0.20210821115324-c13d3284638f h1:3DDNm6RN0g5tv/tB+XTg/zbEo6q6rrJwdN/ZsevWIzo=
+github.com/3nprob/btcd v0.21.0-beta.0.20210821115324-c13d3284638f/go.mod h1:9n5ntfhhHQBIhUvlhDvD3Qg6fRUj4jkN0VB8L8svzOA=
 github.com/aead/siphash v1.0.1 h1:FwHfE/T45KPKYuuSAKyyvE+oPWcaQ+CUmFW0bPlM+kg=
 github.com/aead/siphash v1.0.1/go.mod h1:Nywa3cDsYNNK3gaciGTWPwHt0wlpNV15vwmswBAUSII=
 github.com/btcsuite/btcd v0.0.0-20190824003749-130ea5bddde3/go.mod h1:3J08xEfcugPacsc34/LKRU2yO7YmuT8yt28J8k2+rrI=
