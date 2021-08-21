@@ -42,4 +42,6 @@ replace github.com/btcsuite/btcwallet/wallet/txsizes => ./wallet/txsizes
 // version.
 replace github.com/onsi/ginkgo => github.com/onsi/ginkgo v1.14.2
 
+replace github.com/btcsuite/btcd => github.com/3nprob/btcd v0.21.0-beta.0.20210821093507-bc8debc62bfb
+
 go 1.13
